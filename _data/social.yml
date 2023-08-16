@@ -1,9 +1,9 @@
 - title: Email
-  url: mailto://vszhub@gmail.com
+  url: mailto://yolumia@qq.com
   icon: fas fa-envelope
-- title: Twitter
-  url: https://twitter.com/vszhub
-  icon: fab fa-twitter
+- title: bilibili
+  url: https://space.bilibili.com/2078213?spm_id_from=333.1007.0.0
+  icon: fab fa-bilibili
 - title: GitHub
-  url: https://github.com/vszhub/not-pure-poole
+  url: https://github.com/yolumia
   icon: fab fa-github
