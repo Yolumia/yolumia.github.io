@@ -3,6 +3,8 @@ layout: page
 title: About
 ---
 
-**张家宾 Zhang Jiabin** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+**张家宾 Zhang Jiabin** 南京邮电大学硕士研究生，电话：15660116617，微信：Yolumia，QQ：1739199937 
+
+B站UP：[技术宅学长](https://space.bilibili.com/2078213?spm_id_from=333.1007.0.0)，[Github](https://yolumia.github.io/).
 
 For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
