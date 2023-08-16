@@ -5,7 +5,19 @@ tags: mathjax
 math: true
 date: 2023-08-16 15:00 +0800
 ---
-Not Pure Poole supports [MathJax](https://www.mathjax.org/). You can enable it on a page by setting `math: true` in the front matter.
+**教育经历**
+
+
+**南京邮电大学** 自动化学院、人工智能学院
+
+电子信息 硕士  担任班长
+
+
+**河南科技大学** 信息工程学院
+
+物联网工程 学士 河南科技大学机器人创新实验室管理员（主席）
+
+
 
 An inline math: \\\(E=mc^2\\\).
 
