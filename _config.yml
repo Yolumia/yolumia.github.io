@@ -29,11 +29,11 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: yolumia
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Zhang Jiabin
   links:
     - https://twitter.com/yolumia
     - https://github.com/yolumia
