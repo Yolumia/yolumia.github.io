@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Testing MathJax
+title: 张家宾的个人简历
 tags: mathjax
 math: true
-date: 2020-10-02 15:32 +0800
+date: 2023-08-16 15:00 +0800
 ---
 Not Pure Poole supports [MathJax](https://www.mathjax.org/). You can enable it on a page by setting `math: true` in the front matter.
 
