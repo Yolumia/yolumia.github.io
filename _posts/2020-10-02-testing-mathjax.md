@@ -117,8 +117,7 @@ date: 2023-08-16 15:00 +0800
 
 **个人证书照片：** [点击浏览证书照片](https://h5.qzone.qq.com/ugc/share/?sharetag=7129FC175AC675C89BBA474B447E79D0&loginfrom=4&subtype=3&ciphertext=&sk=&blog_photo=&g=&res_uin=1739199937&cellid=V142h5KA1755Tq&subid=&bp1=&bp2=&bp7=&appid=4&g_f=2000000103)
 
-
-
-
+[上面照片打不开备用链接](https://github.com/Yolumia/yolumia.github.io/tree/master/_posts/img)
+![电赛国一证书图片](https://github.com/Yolumia/yolumia.github.io/tree/master/_posts/img/学生干部证明.jpg)
 
 
