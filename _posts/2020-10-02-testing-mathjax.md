@@ -48,7 +48,7 @@ date: 2023-08-16 15:00 +0800
 
 该项目致力于解决盲人群体阅读困难的问题，受到了河南省盲人按摩协会副会长、市盲协主席马自立先生的高度评价。
 
-相关成果：**发表1篇省级论文、获得2项教育部A类竞赛省一等奖**。
+相关成果：**[发表1篇省级论文](https://d.wanfangdata.com.cn/periodical/ChhQZXJpb2RpY2FsQ0hJTmV3MjAyMzA4MDYSD2ZqemxnbDIwMTgxMjIwNBoIc3luYW9iMnU%3D)、获得2项教育部A类竞赛省一等奖**。
 
 ## 2. 电赛国一作品：滚球控制系统
 
