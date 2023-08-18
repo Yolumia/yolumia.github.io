@@ -12,7 +12,7 @@ date: 2023-08-16 15:00 +0800
 现在所在地：江苏南京
 
 ![证书照片合集](https://github.com/Yolumia/yolumia.github.io/blob/master/_posts/img/IMG_3924.jpeg)
-
+![证书照片合集](https://yolumia.github.io/_posts/img/IMG_3924.jpeg)
 # 教育经历
 
 
