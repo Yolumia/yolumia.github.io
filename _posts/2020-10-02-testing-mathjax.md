@@ -8,7 +8,9 @@ date: 2023-08-16 15:00 +0800
 # 张家宾 男 26岁  期望职位：人工智能、嵌入式、开发、算法
 
 24届毕业生
+
 籍贯：河南焦作
+
 现在所在地：江苏南京
 
 ![证书照片合集](https://github.com/Yolumia/yolumia.github.io/blob/master/_posts/img/IMG_3924.jpeg)
