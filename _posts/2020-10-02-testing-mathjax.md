@@ -119,3 +119,4 @@ date: 2023-08-16 15:00 +0800
 
 ![证书照片合集](_posts/img/IMG_3924.jpeg)
 
+![证书照片合集](https://github.com/Yolumia/yolumia.github.io/blob/master/_posts/img/IMG_3924.jpeg)
