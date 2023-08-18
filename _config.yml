@@ -1,6 +1,6 @@
 # Setup
-title: 张家宾 Zhang Jiabin
-description: 南京邮电大学  自动化学院、人工智能学院  硕士研究生 研究方向：鲁棒联邦学习、多模态学习、度量学习、物联网与嵌入式
+title: 张家宾
+description: 南京邮电大学自动化学院、人工智能学院硕士研究生。参与多项自然科学基金项目与军工项目，主要研究方向：鲁棒联邦学习、多模态学习、度量学习、物联网与嵌入式。主要成果与奖项：申请或者授权发明专利2项，核心期刊发表论文2篇，全国大学生电子设计竞赛全国一等奖，全国大学生机器人大赛Robomasters 全国二等奖，挑战杯省一等奖，互联网+大赛省一等奖，数学建模省一等奖。
 url: https://yolumia.github.io/
 avatar: /avatar.jpeg
 paginate: 5
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: 张家宾 Zhang Jiabin B站UP:技术宅学长
+  name: 张家宾 B站UP:技术宅学长 微信:Yolumia QQ:1739199937
   url: https://space.bilibili.com/2078213?spm_id_from=333.1007.0.0
   email: yolumia@qq.com
