@@ -119,3 +119,4 @@ date: 2023-08-16 15:00 +0800
 
 **个人证书照片：** [点击浏览证书照片](https://github.com/Yolumia/yolumia.github.io/tree/master/_posts/img)
 
+![证书照片合集](img/IMG_3924.jpeg)
