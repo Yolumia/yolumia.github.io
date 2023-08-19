@@ -115,7 +115,7 @@ date: 2023-08-19 13:00 +0800
 
 **网易新闻、大河报五四青年节特别策划、洛阳晚报、洛阳网、河南科技大学校报、河南科技大学学声传媒**等多家媒体道过本人以及本人团队多次高水平学科竞赛获奖的事迹。
 
-百度搜索 “**[河南科技大学 张家宾](https://m.baidu.com/from=844b/s?word=%E6%B2%B3%E5%8D%97%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%20%E5%BC%A0%E5%AE%B6%E5%AE%BE&ts=0&t_kt=0&ie=utf-8&fm_kl=021394be2f&rsv_iqid=7491768895139436895&rsv_t=d15cSPlb4LMM673tLjeZQviXfPQBe3K5rleZJZE1LPRyFGa461jDKfKS2g&sa=ib&ms=1&rsv_pq=7491768895139436895&rsv_sug4=1692420216099&tj=1&inputT=1692420218691&sugid=234738037180136&ss=100)**”了解更多本人信息与相关报道。
+百度搜索 “**[河南科技大学 张家宾](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%20%E5%BC%A0%E5%AE%B6%E5%AE%BE&rsv_spt=1&rsv_iqid=0xe56d5b01000d8580&issp=1&f=8&rsv_bp=1&rsv_idx=2&ie=utf-8&rqlang=cn&tn=baiduhome_pg&rsv_enter=1&rsv_dl=tb&rsv_btype=t&inputT=6665&rsv_t=df3fVQwuOshg%2BakxFCwfm9nT1f154GZQKJXvVrUxmc%2BFFKNQBMvt9IuM%2F0KsNfXk8mW0&rsv_sug3=48&rsv_sug1=45&rsv_sug7=100&oq=cet4%25E6%2588%2590%25E7%25BB%25A9%25E6%259F%25A5%25E8%25AF%25A2&rsv_pq=ee0a7661000ca7cd&rsv_sug2=0&rsv_sug4=90524854)**”了解更多本人信息与相关报道。
 
 **个人主页：** [https://yolumia.github.io](https://yolumia.github.io/)
 
