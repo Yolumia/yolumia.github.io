@@ -13,7 +13,7 @@ date: 2023-08-16 15:00 +0800
 
 现在所在地：江苏南京
 
-![证书照片合集点击查看](img/IMG_4975.jpeg)
+[证书照片合集点击查看](img/IMG_4975.jpeg)
 [](http://placehold.it/800x400 "Large example image")
 
 # 教育经历
@@ -122,4 +122,4 @@ date: 2023-08-16 15:00 +0800
 
 **个人证书照片：** [点击浏览证书照片](https://github.com/Yolumia/yolumia.github.io/tree/master/_posts/img)
 
-![证书照片合集](img/IMG_3924.jpeg)
+[证书拼图](https://github.com/Yolumia/yolumia.github.io/tree/master/_posts/img/IMG_3924.jpeg)
