@@ -15,6 +15,8 @@ date: 2023-08-19 13:00 +0800
 
 [点击查看证书，微信中403请跳转浏览器访问](https://img-blog.csdnimg.cn/2cd08a87e834467d87a325cb61e6bb9e.jpeg)
 
+![](https://img-blog.csdnimg.cn/2cd08a87e834467d87a325cb61e6bb9e.jpeg)
+
 # 教育经历
 
 
@@ -123,3 +125,4 @@ date: 2023-08-19 13:00 +0800
 
 [点击查看证书，微信中403请跳转浏览器访问](https://img-blog.csdnimg.cn/2cd08a87e834467d87a325cb61e6bb9e.jpeg)
 
+![](https://img-blog.csdnimg.cn/2cd08a87e834467d87a325cb61e6bb9e.jpeg)
