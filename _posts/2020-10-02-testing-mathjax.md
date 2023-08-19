@@ -14,7 +14,7 @@ date: 2023-08-16 15:00 +0800
 现在所在地：江苏南京
 
 ![证书照片合集点击查看](img/IMG_4975.jpeg)
-![](http://placehold.it/800x400 "Large example image")
+[](http://placehold.it/800x400 "Large example image")
 
 # 教育经历
 
