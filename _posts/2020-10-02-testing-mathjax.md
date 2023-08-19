@@ -13,7 +13,7 @@ date: 2023-08-16 15:00 +0800
 
 现在所在地：江苏南京
 
-![证书照片合集点击查看](https://img-blog.csdnimg.cn/2cd08a87e834467d87a325cb61e6bb9e.jpeg#pic_center "Large example image")
+![证书照片合集点击查看](img/IMG_4975.jpeg)
 ![](http://placehold.it/800x400 "Large example image")
 
 # 教育经历
