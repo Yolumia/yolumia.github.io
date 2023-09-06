@@ -77,6 +77,9 @@ date: 2023-08-19 13:00 +0800
 
 百度搜索 “**[河南科技大学 张家宾](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%20%E5%BC%A0%E5%AE%B6%E5%AE%BE&rsv_spt=1&rsv_iqid=0xe56d5b01000d8580&issp=1&f=8&rsv_bp=1&rsv_idx=2&ie=utf-8&rqlang=cn&tn=baiduhome_pg&rsv_enter=1&rsv_dl=tb&rsv_btype=t&inputT=6665&rsv_t=df3fVQwuOshg%2BakxFCwfm9nT1f154GZQKJXvVrUxmc%2BFFKNQBMvt9IuM%2F0KsNfXk8mW0&rsv_sug3=48&rsv_sug1=45&rsv_sug7=100&oq=cet4%25E6%2588%2590%25E7%25BB%25A9%25E6%259F%25A5%25E8%25AF%25A2&rsv_pq=ee0a7661000ca7cd&rsv_sug2=0&rsv_sug4=90524854)**”了解更多本人信息与相关报道。
 
+# 实训经历
+## 无锡高新区产业人才实训学院-物联网及数字产业人才班
+班长，优秀营员。通过“公共实训+企业实训”的沉浸式教学模式，在学院学习大数据与云计算技术、算法与设计等理论知识，参观企业参与技能实操。了解行业前沿知识、行业发展趋势。
 
 # 项目经历
 
