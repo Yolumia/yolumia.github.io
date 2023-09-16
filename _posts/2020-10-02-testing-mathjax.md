@@ -105,7 +105,7 @@ date: 2023-08-19 13:00 +0800
 
 项目基金：河南科技大学SRTP(大学生研究训练计划)	
 
-相关成果：**[发表1篇省级论文](https://d.wanfangdata.com.cn/periodical/ChhQZXJpb2RpY2FsQ0hJTmV3MjAyMzA4MDYSD2ZqemxnbDIwMTgxMjIwNBoIc3luYW9iMnU%3D)、获得2项教育部A类竞赛省一等奖**。
+相关成果：**[发表1篇省级论文](https://d.wanfangdata.com.cn/periodical/ChhQZXJpb2RpY2FsQ0hJTmV3MjAyMzA4MDYSD2ZqemxnbDIwMTgxMjIwNBoIc3luYW9iMnU%3D)、挑战杯省一等奖、互联网+大赛省一等奖**。
 
 ## 4. 【嵌入式、算法】电赛国一作品：滚球控制系统
 
