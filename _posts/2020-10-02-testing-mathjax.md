@@ -41,7 +41,7 @@ date: 2023-08-19 13:00 +0800
 
 4. 本科和研究生阶段长期担任**学生干部**，具有良好的组织与运营能力，沟通能力和团队协作能力，面对困难沉着冷静，敢于挑战。
 
-5. B站UP“[技术宅学长](https://space.bilibili.com/2078213)”粉丝人数4K+，CSND粉丝360+，Github开源项目10+。 
+5. B站UP“[技术宅学长](https://space.bilibili.com/2078213)”粉丝人数4K+，CSND粉丝360+，[Github](https://github.com/Yolumia/y)开源项目10+。 
 
 
 
