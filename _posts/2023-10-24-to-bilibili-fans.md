@@ -3,7 +3,7 @@ layout: post
 title: To bilibili fans
 tags: mathjax
 math: true
-date: 2023-10-24 17:00 +0800
+date: 2023-10-14 17:00 +0800
 ---
 # 技术宅学长给粉丝的资料目录
 
