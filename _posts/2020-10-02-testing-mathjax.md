@@ -9,7 +9,7 @@ date: 2023-08-19 13:00 +0800
 
 24届毕业生
 
-籍贯：河南焦作
+籍贯：河南
 
 现在所在地：江苏南京
 
@@ -41,10 +41,7 @@ date: 2023-08-19 13:00 +0800
 
 4. 熟练掌握**深度学习**框架PyTorch，熟练使用ResNet模型，熟练使用SSH远程操作Linux服务器。
 
-5. 本科和研究生阶段长期担任**学生干部**，具有良好的组织与运营能力，沟通能力和团队协作能力，面对困难沉着冷静，敢于挑战。
-
-6. B站UP“[技术宅学长](https://space.bilibili.com/2078213)”粉丝人数4K+，[CSND](https://blog.csdn.net/qq_33440910)粉丝360+，[Github](https://github.com/Yolumia/y)开源项目10+。 
-
+5. 本科和研究生阶段长期担任**学生干部**，B站UP“[技术宅学长](https://space.bilibili.com/2078213)”粉丝人数4K+，[CSND](https://blog.csdn.net/qq_33440910)粉丝360+，[Github](https://github.com/Yolumia/y)开源项目10+。 
 
 
 # 荣誉奖项
@@ -70,7 +67,16 @@ date: 2023-08-19 13:00 +0800
 
 # 媒体报道与采访
 
-**网易新闻、大河报五四青年节特别策划、洛阳晚报、洛阳网、河南科技大学校报、河南科技大学学声传媒**等多家媒体道过本人以及本人团队多次高水平学科竞赛获奖的事迹。
+[**大河报：** 54青年特别策划](https://weibo.com/1734530730/4235896637267641)
+
+[**洛阳网、洛阳晚报：** 河南科技大学“幻影战队”和它的秘密武器](http://lywb.lyd.com.cn/html2/2016-09/20/content_84509.htm)
+
+[**河南科技大学校报：** 机器人创新实验室采访录](https://xiaobao.haust.edu.cn/index/article/articleinfo.html?doc_id=17038)
+
+[**河南科技大学团委：** 星耀河科大，创新即迸发！](https://mp.weixin.qq.com/s/FtkxR6PgSzhmU1Ur76NnbA)
+
+[**河南科技大学学声传媒：** 科大才子合辑||风度翩翩尽是朝气少年](https://mp.weixin.qq.com/s/TwDkUPb0Il3PQEYMEZ5alA)
+
 
 百度搜索 “**[河南科技大学 张家宾](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%20%E5%BC%A0%E5%AE%B6%E5%AE%BE&rsv_spt=1&rsv_iqid=0xe56d5b01000d8580&issp=1&f=8&rsv_bp=1&rsv_idx=2&ie=utf-8&rqlang=cn&tn=baiduhome_pg&rsv_enter=1&rsv_dl=tb&rsv_btype=t&inputT=6665&rsv_t=df3fVQwuOshg%2BakxFCwfm9nT1f154GZQKJXvVrUxmc%2BFFKNQBMvt9IuM%2F0KsNfXk8mW0&rsv_sug3=48&rsv_sug1=45&rsv_sug7=100&oq=cet4%25E6%2588%2590%25E7%25BB%25A9%25E6%259F%25A5%25E8%25AF%25A2&rsv_pq=ee0a7661000ca7cd&rsv_sug2=0&rsv_sug4=90524854)**”了解更多本人信息与相关报道。
 
