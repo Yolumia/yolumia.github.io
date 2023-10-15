@@ -58,3 +58,15 @@ win请使用post版本，使用方法请看我的专栏 https://www.bilibili.com
 链接：https://pan.baidu.com/s/1NuIli3EmxaA14Yj7DmGaTw?pwd=6666 
 
 电赛交流群586475593
+
+# 照片视频等
+
+## 12月栖霞山
+
+链接：https://pan.baidu.com/s/1LV2euHatKjv1yAZ_ZeiGRg?pwd=6666 
+提取码：6666
+
+## 人工桌面提取的视频
+
+链接：https://pan.baidu.com/s/1Ky9rOvbMs8uhstww1ljuCA?pwd=6666 
+提取码：6666
