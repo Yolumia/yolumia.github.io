@@ -1,7 +1,7 @@
 ---
 layout: post
 title: To bilibili fans
-tags: mathjax
+tags: bilibili
 math: true
 date: 2023-10-14 17:00 +0800
 ---
