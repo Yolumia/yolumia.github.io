@@ -51,3 +51,10 @@ win请使用post版本，使用方法请看我的专栏 https://www.bilibili.com
 
 待更新
 
+# 电赛
+
+## 矩形检测
+
+链接：https://pan.baidu.com/s/1NuIli3EmxaA14Yj7DmGaTw?pwd=6666 
+
+电赛交流群586475593
