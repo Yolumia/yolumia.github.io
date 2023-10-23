@@ -32,7 +32,7 @@ date: 2023-08-19 13:00 +0800
 2. 具备良好的C和Python编程能力、算法设计与数学建模能力。
 3. 熟练掌握单片机、传感器、物联网、嵌入式技术，已认证为阿里云IoT生态合作伙伴。
 4. 熟练掌握深度学习框架PyTorch，熟练使用ResNet模型，熟练使用SSH远程操作Linux服务器。
-5. 本科和研究生阶段长期担任**学生干部**。B站UP“[技术宅学长](https://space.bilibili.com/2078213)”粉丝人数4K+，[CSND](https://blog.csdn.net/qq_33440910)粉丝360+，[Github](https://github.com/Yolumia/y)开源项目10+。 
+5. 本科和研究生阶段长期担任**学生干部**。B站UP“[技术宅学长](https://space.bilibili.com/2078213)”粉丝人数6K+，[CSND](https://blog.csdn.net/qq_33440910)粉丝360+，[Github](https://github.com/Yolumia/y)开源项目10+。 
 
 # 竞赛奖项
 
