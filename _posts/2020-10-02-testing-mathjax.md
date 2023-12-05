@@ -32,7 +32,7 @@ date: 2023-08-19 13:00 +0800
 2. 具备良好的C和Python编程能力、算法设计与数学建模能力。
 3. 熟练掌握单片机、传感器、物联网、嵌入式技术，已认证为阿里云IoT生态合作伙伴。
 4. 熟练掌握深度学习框架PyTorch，熟练使用ResNet模型，熟练使用SSH远程操作Linux服务器。
-5. 本科和研究生阶段长期担任**学生干部**。B站UP“[技术宅学长](https://space.bilibili.com/2078213)”粉丝人数6K+，[CSND](https://blog.csdn.net/qq_33440910)粉丝360+，[Github](https://github.com/Yolumia/y)开源项目10+。 
+5. 本科和研究生阶段长期担任**学生干部**。B站UP“[技术宅学长](https://space.bilibili.com/2078213)”粉丝人数6K+，[CSND](https://blog.csdn.net/qq_33440910)总访问了3.5w+，[Github](https://github.com/Yolumia/y)开源项目10+，竞赛获奖15+。 
 
 # 竞赛奖项
 
@@ -48,10 +48,10 @@ date: 2023-08-19 13:00 +0800
 # 学术成果
 
 1. 学生1作：基于协同网络与度量学习的标签噪声鲁棒联邦学习方法. 计算机科学2024:10 （CCF-B期刊） ；
-2. 国际控制领域顶会CCDC2023，4作：Multi-stage Feature Interaction Network for Masked Visible-thermal Person Re-identification；
-3. 省级期刊，1作：电脉冲触摸式盲文电子阅读器的设计[J].福建质量管理.2018(6下):257-258； 
-4. 发明专利，学生1作：基于自步学习与邻接矩阵的标签噪声鲁棒联邦学习方法，专利号申请号：202310741144.1 （已公开）；
-5. 发明专利，学生2作：一种自动解魔方装置，专利号：ZL201810135730.0（已授权）； 
+2. 学生3作：Multi-stage Feature Interaction Network for Masked Visible-thermal Person Re-identification. CCDC2023；
+3. 学生1作：基于自步学习与邻接矩阵的标签噪声鲁棒联邦学习方法，专利号申请号：202310741144.1 （发明专利已公开）；
+5. 学生2作：一种自动解魔方装置，专利号：ZL201810135730.0（发明专利已授权）；
+6. 1作：电脉冲触摸式盲文电子阅读器的设计.福建质量管理.2018(6下):257-258； 
 
 # 项目经历
 
