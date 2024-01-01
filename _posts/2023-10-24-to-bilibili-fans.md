@@ -49,7 +49,7 @@ win请使用post版本，使用方法请看我的专栏 https://www.bilibili.com
 
 ### 南工大 安卓版本
 
-待更新
+百度网盘： 链接：https://pan.baidu.com/s/10o1UwlW4rXfzLgSR9uek0g?pwd=6666 提取码：6666 
 
 # 电赛
 
